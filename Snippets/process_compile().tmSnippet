@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>process.compile('${1:source}', '${2:filename}')</string>
+	<key>name</key>
+	<string>process.compile()</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>compile</string>
+	<key>uuid</key>
+	<string>7C5B8176-B98C-4463-9392-C6E7BA7DE6A6</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>fs.readFileSync('${1:path}')</string>
+	<key>name</key>
+	<string>fs.readFileSync()</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>rfs</string>
+	<key>uuid</key>
+	<string>F5DA16E3-6B74-47BD-97F1-158394A6FD97</string>
+</dict>
+</plist>

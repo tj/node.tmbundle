@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>process.kill(${1:pid}, 'SIG${2:INT}')</string>
+	<key>name</key>
+	<string>process.kill()</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>kill</string>
+	<key>uuid</key>
+	<string>6F6337E8-1280-4D5D-9ED6-DD9C2A9547AA</string>
+</dict>
+</plist>

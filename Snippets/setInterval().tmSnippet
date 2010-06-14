@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>setInterval(function(){
+	$0
+}, ${1:ms});</string>
+	<key>name</key>
+	<string>setInterval()</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>si</string>
+	<key>uuid</key>
+	<string>EA683C44-85EC-4EEB-B2C3-38F16D584482</string>
+</dict>
+</plist>
