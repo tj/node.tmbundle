@@ -4,7 +4,9 @@
  Simple [Node](http://nodejs.org) TextMate bundle, feel
  free to fork!
 
-## Snippits
+## Snippets
+
+Below are _some_ of the tab completion snippets provided:
 
     `try`   - try catch block
 	`st`    - setTimeout()
