@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>sys.inherits(${1:Superclass}, ${2:Subclass});</string>
+	<string>throw new Error('$1');</string>
 	<key>name</key>
-	<string>sys.inherit()</string>
+	<string>throw new Error()</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>i</string>
+	<string>te</string>
 	<key>uuid</key>
-	<string>88736740-3FE2-419C-8FC7-11FC76C6F832</string>
+	<string>497497A1-1B3B-4B21-BEC2-ACFA7E0C68A4</string>
 </dict>
 </plist>

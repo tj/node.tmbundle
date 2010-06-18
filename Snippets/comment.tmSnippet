@@ -8,7 +8,7 @@
  *
  * @param {${2:Type}} ${3:name}
  * @return {${4:Type}}
- * @api {5:public}
+ * @api ${5:public}
  */</string>
 	<key>name</key>
 	<string>comment</string>
