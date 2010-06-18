@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>sys.inherits(${1:Superclass}, ${2:Subclass});</string>
+	<string>sys.inherits(${1:Subclass}, ${2:Superclass});</string>
 	<key>name</key>
 	<string>sys.inherit()</string>
 	<key>scope</key>
