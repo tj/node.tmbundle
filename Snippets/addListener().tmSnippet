@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>addListener('${1:event}', function(){
+	<string>addListener('${1:event}', function($2){
 	$0
 });</string>
 	<key>name</key>
