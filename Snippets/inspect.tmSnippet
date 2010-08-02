@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>require('sys').puts(require('sys').inspect($0));</string>
+	<string>console.dir($0)</string>
 	<key>name</key>
 	<string>inspect</string>
 	<key>scope</key>
