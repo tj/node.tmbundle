@@ -5,11 +5,11 @@
 	<key>content</key>
 	<string>console.dir($0)</string>
 	<key>name</key>
-	<string>inspect</string>
+	<string>console.dir</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>p</string>
+	<string>d</string>
 	<key>uuid</key>
 	<string>02ABB4AD-057E-4CD4-9906-9AA60D87EE14</string>
 </dict>
